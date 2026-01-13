@@ -1,4 +1,8 @@
 # SweetScience
+<p align="center">
+  <img src="SweetScience3.jpg" alt="Sweet icon can't be loaded :/" width="40%" />
+</p>
+
 SweetScience is a high-fantasy world combined with machinery and electronic automation!
 
 It provides a cozy, yet dangerous atmosphere to explore, where many new mobs and creatures roam the land. Floating airships and islands hover above the surface, while new ores shimmer in the caverns below...
