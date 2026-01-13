@@ -7,14 +7,21 @@ Vast colorful forrests flow across the overworld, whilest being compressed in sp
 Or not! It's up to you, Lord of All Factories, Hunter of the Wicked, or just a simple farmer.
 
 MC 1.21.1 Only; 
-Neoforge Only
+Neoforge 21.1.217 Only
 
+[Download Here](https://github.com/TaterTot420/SweetScience/raw/refs/heads/main/SweetScience%201.0.3.mrpack)
 # Server-Side
-Server versions of the pack also exist!  __Although it is packed as a Modrinth pack, it must be unpacked before being placed into server root__  Unzip with your favorite software,  Place ALL configs into the server subfolder: /config  Place ALL .jar `s into server subfolder: /mods
+Server versions of the pack also exist!<br>
+__Although it is packed as a Modrinth pack, it must be unpacked before being placed into server root__<br>
+
+Unzip with your favorite software,<br>
+Place ALL configs into the server subfolder: /config<br>
+Place ALL .jar `s into server subfolder: /mods<br>
 
 Although Prism launcher and Curse _say_ they can export a server pack cleanly, it hasn't worked in my experience.
 (Yes.. I will add them as a raw zip file. Someday.)
 
+[Download Server Side Here](https://github.com/TaterTot420/SweetScience/raw/refs/heads/main/SweetScience%20SERVER%20SIDE%201.0.3.mrpack)
 # Accessibility
-Currently this is the only place you can get it!
+Currently this is the only place you can get it!<br>
 Although I'm not happy about that. Despite the irony of being a Modrinth file, they won't actually let me upload it. Curse might have the same problem, but I haven't found out yet, since my curse enviroment is wayyy out of date.
