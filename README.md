@@ -10,11 +10,7 @@ MC 1.21.1 Only;
 Neoforge Only
 
 # Server-Side
-Server versions of the pack also exist!
-__Although it is packed as a Modrinth pack, it must be unpacked before being placed into server root__
-Unzip with your favorite software,
-Place ALL configs into the server subfolder: /config
-Place ALL .jar `s into server subfolder: /mods
+Server versions of the pack also exist!  __Although it is packed as a Modrinth pack, it must be unpacked before being placed into server root__  Unzip with your favorite software,  Place ALL configs into the server subfolder: /config  Place ALL .jar `s into server subfolder: /mods
 
 Although Prism launcher and Curse _say_ they can export a server pack cleanly, it hasn't worked in my experience.
 (Yes.. I will add them as a raw zip file. Someday.)
