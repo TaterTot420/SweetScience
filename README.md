@@ -22,6 +22,12 @@ Although Prism launcher and Curse _say_ they can export a server pack cleanly, i
 (Yes.. I will add them as a raw zip file. Someday.)
 
 [Download Server Side Here](https://github.com/TaterTot420/SweetScience/raw/refs/heads/main/SweetScience%20SERVER%20SIDE%201.0.3.mrpack)
+# Gallery
+<p align="center">
+  <i>Deep Caves...</i>
+</p>
+
+![Spooky caves can't be loaded :/](CaveSample.png)
 # Accessibility
 Currently this is the only place you can get it!<br>
 Although I'm not happy about that. Despite the irony of being a Modrinth file, they won't actually let me upload it. Curse might have the same problem, but I haven't found out yet, since my curse enviroment is wayyy out of date.
